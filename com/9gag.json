@@ -1,0 +1,12 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": ".install-block-3"
+        },
+        "trigger": {
+            "if-domain": ["m.9gag.com"],
+            "url-filter": ".*"
+        }
+    }
+]
