@@ -46,13 +46,21 @@
         "trigger": {
             "url-filter": "doubleclick.net"
         }
-    }
+    },
     {
         "action": {
             "type": "block"
         },
         "trigger": {
             "url-filter": "googlesyndication.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "idgtn.net"
         }
     }
 ]
