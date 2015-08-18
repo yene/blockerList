@@ -62,5 +62,13 @@
         "trigger": {
             "url-filter": "idgtn.net"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "adtech.de"
+        }
     }
 ]

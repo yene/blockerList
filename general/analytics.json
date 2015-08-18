@@ -14,6 +14,30 @@
         "trigger": {
             "url-filter": "googletagservices.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "googletagmanager.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "nuggad.net"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "wemfbox.ch"
+        }
     }
 
 ]
