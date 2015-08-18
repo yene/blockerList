@@ -1,0 +1,12 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": ".EuCookieSheet"
+        },
+        "trigger": {
+            "if-domain": ["mobile.twitter.com"],
+            "url-filter": ".*"
+        }
+    }
+]
