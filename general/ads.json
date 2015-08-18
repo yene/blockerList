@@ -70,5 +70,21 @@
         "trigger": {
             "url-filter": "adtech.de"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "smartadserver.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "chartbeat.com"
+        }
     }
 ]
