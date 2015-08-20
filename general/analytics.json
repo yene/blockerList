@@ -54,6 +54,22 @@
         "trigger": {
             "url-filter": "netshelter.net"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "nr-data.net"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "parsely.com"
+        }
     }
 
 ]

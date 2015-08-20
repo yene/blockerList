@@ -126,5 +126,13 @@
         "trigger": {
             "url-filter": "ioam.de"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "adnxs.com"
+        }
     }
 ]
