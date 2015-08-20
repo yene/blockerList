@@ -38,6 +38,22 @@
         "trigger": {
             "url-filter": "wemfbox.ch"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "imrworldwide.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "netshelter.net"
+        }
     }
 
 ]

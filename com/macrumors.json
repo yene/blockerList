@@ -1,0 +1,12 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": ".adsbygoogle"
+        },
+        "trigger": {
+            "if-domain": ["macrumors.com"],
+            "url-filter": ".*"
+        }
+    }
+]
