@@ -134,5 +134,29 @@
         "trigger": {
             "url-filter": "adnxs.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "moatads.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "amazon-adsystem.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "servedbyopenx.com"
+        }
     }
 ]
