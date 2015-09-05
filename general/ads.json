@@ -158,5 +158,21 @@
         "trigger": {
             "url-filter": "servedbyopenx.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "iperceptions.com"
+        }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "effectivemeasure.net"
+        }
     }
 ]
