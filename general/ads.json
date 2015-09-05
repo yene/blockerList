@@ -214,5 +214,13 @@
         "trigger": {
             "url-filter": "visualrevenue.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "ads.yahoo.com"
+        }
     }
 ]

@@ -70,6 +70,14 @@
         "trigger": {
             "url-filter": "parsely.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "analytics.yahoo.com"
+        }
     }
 
 ]
