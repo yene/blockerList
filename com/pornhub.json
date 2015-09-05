@@ -1,0 +1,12 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": ".adContainer"
+        },
+        "trigger": {
+            "if-domain": ["www.pornhub.com"],
+            "url-filter": ".*"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "action": {
+            "type": "css-display-none",
+            "selector": ".advertisment"
+        },
+        "trigger": {
+            "if-domain": ["m.xhamster.com"],
+            "url-filter": ".*"
+        }
+    }
+]

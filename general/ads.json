@@ -222,5 +222,13 @@
         "trigger": {
             "url-filter": "ads.yahoo.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "exoclick.com"
+        }
     }
 ]
