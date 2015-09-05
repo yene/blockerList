@@ -206,5 +206,13 @@
         "trigger": {
             "url-filter": "quantserve.com"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "visualrevenue.com"
+        }
     }
 ]
