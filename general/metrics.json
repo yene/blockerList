@@ -30,5 +30,13 @@
         "trigger": {
             "url-filter": "krxd.net"
         }
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "tags.tiqcdn.com"
+        }
     }
 ]
